@@ -1,6 +1,4 @@
-Ошибка! Нужно объявить переменную totalCount. Вот исправленная версия:
 
-```cpp
 #include <iostream>
 using namespace std;
 
